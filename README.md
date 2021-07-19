@@ -1,11 +1,12 @@
 # A data dashboard web app built with python, flask, html, css javascript.
 # Basics of a web app
-   html
-   css
+   html,
+   css,
    javascript
 # Front-end libraries
-   boostrap
+   boostrap,
    plotly
 # Back-end libraries
    flask
-# Deploy a web app to the cloud
+# Deployed to the cloud
+  Heroku
