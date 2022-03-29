@@ -4,7 +4,7 @@
    css,
    javascript
 # Front-end libraries
-   boostrap,
+   bootstrap,
    plotly
 # Back-end libraries
    flask
